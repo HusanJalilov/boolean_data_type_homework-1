@@ -7,4 +7,4 @@ def main(a):
         bool
     """
     # Write your code here
-    return 
+    return bool(not(a%2))
