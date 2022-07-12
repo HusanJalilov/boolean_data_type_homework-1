@@ -7,4 +7,4 @@ def main(a):
         bool
     """
     # Write your code here
-    return bool(a>=0 )
+    return a>=0
